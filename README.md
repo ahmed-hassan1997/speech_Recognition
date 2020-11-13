@@ -2,7 +2,7 @@
 
 you will build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline
 
-We begin by investigating the LibriSpeech dataset that will be used to train and evaluate your models.
+We begin by investigating the <a href = "http://www.openslr.org/12/"> LibriSpeech dataset </a>that will be used to train and evaluate your models.
 
 Your algorithm will first convert any raw audio to feature representations that are commonly used for ASR.
 
